@@ -1,0 +1,28 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_PL2PS_DMA_0/sim/design_1_PL2PS_DMA_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_PL2PS_DMA_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_PL_GEN_ARESETN_50_0/sim/design_1_PL_GEN_ARESETN_50_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_PL_GEN_ARESETN_50_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_PL_GEN_ARESETN_100_0/sim/design_1_PL_GEN_ARESETN_100_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_PL_GEN_ARESETN_100_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_PS2PL_DMA_0/sim/design_1_PS2PL_DMA_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_PS2PL_DMA_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_axi_smc_0/bd_0/ip/ip_1/sim/bd_afc3_psr_aclk_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bd_afc3_psr_aclk_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_axi_smc_0/sim/design_1_axi_smc_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_axi_smc_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_axi_smc_1_0/bd_0/ip/ip_1/sim/bd_a878_psr_aclk_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bd_a878_psr_aclk_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/ip/design_1_axi_smc_1_0/sim/design_1_axi_smc_1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_axi_smc_1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.ip_user_files/bd/design_1/sim/design_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity m00_couplers_imp_15SPJYW
+INFO: [VRFC 10-307] analyzing entity m01_couplers_imp_XU9C55
+INFO: [VRFC 10-307] analyzing entity s00_couplers_imp_UYSKKA
+INFO: [VRFC 10-307] analyzing entity design_1_ps7_0_axi_periph_0
+INFO: [VRFC 10-307] analyzing entity design_1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/Fifth Exercise/Fifth Exercise.srcs/sources_1/new/debayer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity debayer
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/vhdl_srcs/design_1_wrapper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_wrapper
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/manosx/Documents/dvlsi2021_lab5/vhdl_srcs/dvlsi2021_lab5_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dvlsi2021_lab5_top

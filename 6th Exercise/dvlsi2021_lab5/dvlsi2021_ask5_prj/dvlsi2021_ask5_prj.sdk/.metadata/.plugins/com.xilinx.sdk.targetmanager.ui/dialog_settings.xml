@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Local" key="dvlsi2021_lab5_top_hw_platform_0-target"/>
+	<item value="dvlsi2021_lab5_top_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="" key="dvlsi2021_lab5_top_hw_platform_0-bmmFile"/>
+	<item value="Auto Detect" key="dvlsi2021_lab5_top_hw_platform_0-device"/>
+	<item value="false" key="dvlsi2021_lab5_top_hw_platform_0-partial_bit"/>
+	<item value="dvlsi2021_lab5_top.bit" key="dvlsi2021_lab5_top_hw_platform_0-bitFile"/>
+</section>
